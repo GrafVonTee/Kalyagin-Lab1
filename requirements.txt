@@ -4,3 +4,5 @@ jupyterlab
 scikit-learn
 pandas
 openpyxl
+matplotlib
+seaborn
