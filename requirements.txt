@@ -1,0 +1,6 @@
+numpy
+notebook
+jupyterlab
+scikit-learn
+pandas
+openpyxl
